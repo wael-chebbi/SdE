@@ -11,7 +11,7 @@
 *Gestion FCFS des processus: https://github.com/UPB-FILS/SE/blob/2013/2013/TD3/TD3.pdf
 - fisierele aferente temei sunt incarcate in folderul TD3 si testate pe codeenv.com
 
-<b>Pentru TD3:</b>
+<b>Pentru TD6:</b>
 
 *Virtual Memory Management Simulator
 In this mini project you write a Java program that simulates translation from a virtual address to a physical address. The program will read from a file containing virtual addresses. It uses a page table as well as a TLB to translate the virtual address to the phyiscal address and outputs the physical address and the byte stored at that address. Let the phyiscal address space have a size of 65536 (=2**16) bytes. 
