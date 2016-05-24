@@ -12,7 +12,8 @@
 - fisierele aferente temei sunt incarcate in folderul TD3 si testate pe codeenv.com
 
 <b>Pentru TD3:</b>
-Virtual Memory Management Simulator
+
+*Virtual Memory Management Simulator
 In this mini project you write a Java program that simulates translation from a virtual address to a physical address. The program will read from a file containing virtual addresses. It uses a page table as well as a TLB to translate the virtual address to the phyiscal address and outputs the physical address and the byte stored at that address. Let the phyiscal address space have a size of 65536 (=2**16) bytes. 
 Your program will read a file containing several 32-bit integer numbers that represent the virtual addresses. You need only be concerned with 16-bit addresses. Thus take the 16 LSB into account. The 16-bit virtual address is divided into (1) an 8-bit page number and (2) 8-bit page offset. 
 Other specifics include:
